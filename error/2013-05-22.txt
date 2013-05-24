@@ -1,0 +1,397 @@
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 01:03:36
+
+错误sql语句：
+INSERT INTO article (user_id,title_id,title,content,thumb) VALUES ('1','17','HTML 转 JavaScript 字符串','<p>HTML 转 JavaScript 字符串</p><p><textarea style="width:100%;height:100px;" id="editor"></textarea><textarea style="width:100%;height:300px;" id="result"></textarea><label><input checked="checked" id="cssPathCheck" type="checkbox" />cssPath</label></p><script _ue_org_tagname="script">
+			var d        = document,
+			editor       = d.getElementById('editor'),
+			result       = d.getElementById('result'),
+			cssPathCheck = d.getElementById('cssPathCheck'),
+			html ,
+			hander = function () {
+				html = editor.value;
+				html = html.replace(/(^\s*)|(\s*$)/mg, '')//删除每行首位的空白字符
+						   .replace(/\'/g,'\\\'')//转义所有的单引号
+					       .replace(/\n|\t/g,'\'+\n\'');//回车字符，替换成字符串相加
+				if(cssPathCheck.checked){//是否加版本号
+					html = html.replace(/(http:\/\/)[\d\w\.]+(\/zhenai3\/)/g,'\'+cssPath+\'$2');
+				}
+				result.value = '\''+html+'\';';
+			};
+			if(!+[1,]){
+				editor.onpropertychange = hander;			
+			}else{
+				editor.addEventListener('input',hander);
+			}
+			cssPathCheck.onclick = hander;
+	</script>','')
+客户IP:10.10.120.123
+时间 :2013-05-22 01:10:36
+
+错误sql语句：
+INSERT INTO article (user_id,title_id,title,content,thumb) VALUES ('1','17','HTML 转 JavaScript 字符串','<p>HTML 转 JavaScript 字符串</p><p><textarea style="width:100%;height:100px;" id="editor"></textarea><textarea style="width:100%;height:300px;" id="result"></textarea><label><input checked="checked" id="cssPathCheck" type="checkbox" />cssPath</label></p><script _ue_org_tagname="script">
+			var d        = document,
+			editor       = d.getElementById('editor'),
+			result       = d.getElementById('result'),
+			cssPathCheck = d.getElementById('cssPathCheck'),
+			html ,
+			hander = function () {
+				html = editor.value;
+				html = html.replace(/(^\s*)|(\s*$)/mg, '')//删除每行首位的空白字符
+						   .replace(/\'/g,'\\\'')//转义所有的单引号
+					       .replace(/\n|\t/g,'\'+\n\'');//回车字符，替换成字符串相加
+				if(cssPathCheck.checked){//是否加版本号
+					html = html.replace(/(http:\/\/)[\d\w\.]+(\/zhenai3\/)/g,'\'+cssPath+\'$2');
+				}
+				result.value = '\''+html+'\';';
+			};
+			if(!+[1,]){
+				editor.onpropertychange = hander;			
+			}else{
+				editor.addEventListener('input',hander);
+			}
+			cssPathCheck.onclick = hander;
+	</script>','')
+客户IP:10.10.120.123
+时间 :2013-05-22 01:10:46
+
+错误sql语句：
+INSERT INTO note_article (user_id,title_id,title,content,thumb) VALUES ('1','17','HTML 转 JavaScript 字符串','<p>HTML 转 JavaScript 字符串</p><p><textarea style="width:100%;height:100px;" id="editor"></textarea><textarea style="width:100%;height:300px;" id="result"></textarea><label><input checked="checked" id="cssPathCheck" type="checkbox" />cssPath</label></p><script _ue_org_tagname="script">
+			var d        = document,
+			editor       = d.getElementById('editor'),
+			result       = d.getElementById('result'),
+			cssPathCheck = d.getElementById('cssPathCheck'),
+			html ,
+			hander = function () {
+				html = editor.value;
+				html = html.replace(/(^\s*)|(\s*$)/mg, '')//删除每行首位的空白字符
+						   .replace(/\'/g,'\\\'')//转义所有的单引号
+					       .replace(/\n|\t/g,'\'+\n\'');//回车字符，替换成字符串相加
+				if(cssPathCheck.checked){//是否加版本号
+					html = html.replace(/(http:\/\/)[\d\w\.]+(\/zhenai3\/)/g,'\'+cssPath+\'$2');
+				}
+				result.value = '\''+html+'\';';
+			};
+			if(!+[1,]){
+				editor.onpropertychange = hander;			
+			}else{
+				editor.addEventListener('input',hander);
+			}
+			cssPathCheck.onclick = hander;
+	</script>','')
+客户IP:10.10.120.123
+时间 :2013-05-22 01:11:00
+
+错误sql语句：
+INSERT INTO article (user_id,title_id,title,content,thumb) VALUES ('1','17','HTML 转 JavaScript 字符串','<p>HTML 转 JavaScript 字符串</p><p><textarea style="width:100%;height:100px;" id="editor"></textarea><textarea style="width:100%;height:300px;" id="result"></textarea><label><input checked="checked" id="cssPathCheck" type="checkbox" />cssPath</label></p><script _ue_org_tagname="script">
+			var d        = document,
+			editor       = d.getElementById('editor'),
+			result       = d.getElementById('result'),
+			cssPathCheck = d.getElementById('cssPathCheck'),
+			html ,
+			hander = function () {
+				html = editor.value;
+				html = html.replace(/(^\s*)|(\s*$)/mg, '')//删除每行首位的空白字符
+						   .replace(/\'/g,'\\\'')//转义所有的单引号
+					       .replace(/\n|\t/g,'\'+\n\'');//回车字符，替换成字符串相加
+				if(cssPathCheck.checked){//是否加版本号
+					html = html.replace(/(http:\/\/)[\d\w\.]+(\/zhenai3\/)/g,'\'+cssPath+\'$2');
+				}
+				result.value = '\''+html+'\';';
+			};
+			if(!+[1,]){
+				editor.onpropertychange = hander;			
+			}else{
+				editor.addEventListener('input',hander);
+			}
+			cssPathCheck.onclick = hander;
+	</script>','')
+客户IP:10.10.120.123
+时间 :2013-05-22 01:11:22
+
+错误sql语句：
+INSERT INTO article (user_id,title_id,title,content,thumb) VALUES ('1','17','HTML 转 JavaScript 字符串','<p>HTML 转 JavaScript 字符串</p><p><textarea style="width:100%;height:100px;" id="editor"></textarea><textarea style="width:100%;height:300px;" id="result"></textarea><label><input checked="checked" id="cssPathCheck" type="checkbox" />cssPath</label></p><script _ue_org_tagname="script">
+			var d        = document,
+			editor       = d.getElementById('editor'),
+			result       = d.getElementById('result'),
+			cssPathCheck = d.getElementById('cssPathCheck'),
+			html ,
+			hander = function () {
+				html = editor.value;
+				html = html.replace(/(^\s*)|(\s*$)/mg, '')//删除每行首位的空白字符
+						   .replace(/\'/g,'\\\'')//转义所有的单引号
+					       .replace(/\n|\t/g,'\'+\n\'');//回车字符，替换成字符串相加
+				if(cssPathCheck.checked){//是否加版本号
+					html = html.replace(/(http:\/\/)[\d\w\.]+(\/zhenai3\/)/g,'\'+cssPath+\'$2');
+				}
+				result.value = '\''+html+'\';';
+			};
+			if(!+[1,]){
+				editor.onpropertychange = hander;			
+			}else{
+				editor.addEventListener('input',hander);
+			}
+			cssPathCheck.onclick = hander;
+	</script>','')
+客户IP:10.10.120.123
+时间 :2013-05-22 01:13:20
+
+错误sql语句：
+INSERT INTO article (user_id,title_id,title,content,thumb) VALUES ('1','17','HTML 转 JavaScript 字符串','<p>HTML 转 JavaScript 字符串
+</p><p><textarea style="width:100%;height:100px;" id="editor"></textarea><textarea style="width:100%;height:300px;" id="result"></textarea><label><input checked="checked" id="cssPathCheck" type="checkbox" />cssPath</label></p><script _ue_org_tagname="script">
+			var d        = document,
+			editor       = d.getElementById('editor'),
+			result       = d.getElementById('result'),
+			cssPathCheck = d.getElementById('cssPathCheck'),
+			html ,
+			hander = function () {
+				html = editor.value;
+				html = html.replace(/(^\s*)|(\s*$)/mg, '')//删除每行首位的空白字符
+						   .replace(/\'/g,'\\\'')//转义所有的单引号
+					       .replace(/\n|\t/g,'\'+\n\'');//回车字符，替换成字符串相加
+				if(cssPathCheck.checked){//是否加版本号
+					html = html.replace(/(http:\/\/)[\d\w\.]+(\/zhenai3\/)/g,'\'+cssPath+\'$2');
+				}
+				result.value = '\''+html+'\';';
+			};
+			if(!+[1,]){
+				editor.onpropertychange = hander;			
+			}else{
+				editor.addEventListener('input',hander);
+			}
+			cssPathCheck.onclick = hander;
+	</script>','')
+客户IP:10.10.120.123
+时间 :2013-05-22 01:14:55
+
+错误sql语句：
+INSERT INTO article (user_id,title_id,title,content,thumb) VALUES ('1','16','HTML 转 JavaScript 字符串','%3Cp%3EHTML%20%E8%BD%AC%20JavaScript%20%E5%AD%97%E7%AC%A6%E4%B8%B2%0A%3C%2Fp%3E%3Cp%3E%3Ctextarea%20style%3D%22width%3A100%25%3Bheight%3A100px%3B%22%20id%3D%22editor%22%3E%3C%2Ftextarea%3E%3Ctextarea%20style%3D%22width%3A100%25%3Bheight%3A300px%3B%22%20id%3D%22result%22%3E%3C%2Ftextarea%3E%3Clabel%3E%3Cinput%20checked%3D%22checked%22%20id%3D%22cssPathCheck%22%20type%3D%22checkbox%22%20%2F%3EcssPath%3C%2Flabel%3E%3C%2Fp%3E%3Cscript%20_ue_org_tagname%3D%22script%22%3E%0A%09%09%09var%20d%20%20%20%20%20%20%20%20%3D%20document%2C%0A%09%09%09editor%20%20%20%20%20%20%20%3D%20d.getElementById('editor')%2C%0A%09%09%09result%20%20%20%20%20%20%20%3D%20d.getElementById('result')%2C%0A%09%09%09cssPathCheck%20%3D%20d.getElementById('cssPathCheck')%2C%0A%09%09%09html%20%2C%0A%09%09%09hander%20%3D%20function%20()%20%7B%0A%09%09%09%09html%20%3D%20editor.value%3B%0A%09%09%09%09html%20%3D%20html.replace(%2F(%5E%5Cs*)%7C(%5Cs*%24)%2Fmg%2C%20'')%2F%2F%E5%88%A0%E9%99%A4%E6%AF%8F%E8%A1%8C%E9%A6%96%E4%BD%8D%E7%9A%84%E7%A9%BA%E7%99%BD%E5%AD%97%E7%AC%A6%0A%09%09%09%09%09%09%20%20%20.replace(%2F%5C'%2Fg%2C'%5C%5C%5C'')%2F%2F%E8%BD%AC%E4%B9%89%E6%89%80%E6%9C%89%E7%9A%84%E5%8D%95%E5%BC%95%E5%8F%B7%0A%09%09%09%09%09%20%20%20%20%20%20%20.replace(%2F%5Cn%7C%5Ct%2Fg%2C'%5C'%2B%5Cn%5C'')%3B%2F%2F%E5%9B%9E%E8%BD%A6%E5%AD%97%E7%AC%A6%EF%BC%8C%E6%9B%BF%E6%8D%A2%E6%88%90%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E5%8A%A0%0A%09%09%09%09if(cssPathCheck.checked)%7B%2F%2F%E6%98%AF%E5%90%A6%E5%8A%A0%E7%89%88%E6%9C%AC%E5%8F%B7%0A%09%09%09%09%09html%20%3D%20html.replace(%2F(http%3A%5C%2F%5C%2F)%5B%5Cd%5Cw%5C.%5D%2B(%5C%2Fzhenai3%5C%2F)%2Fg%2C'%5C'%2BcssPath%2B%5C'%242')%3B%0A%09%09%09%09%7D%0A%09%09%09%09result.value%20%3D%20'%5C''%2Bhtml%2B'%5C'%3B'%3B%0A%09%09%09%7D%3B%0A%09%09%09if(!%2B%5B1%2C%5D)%7B%0A%09%09%09%09editor.onpropertychange%20%3D%20hander%3B%09%09%09%0A%09%09%09%7Delse%7B%0A%09%09%09%09editor.addEventListener('input'%2Chander)%3B%0A%09%09%09%7D%0A%09%09%09cssPathCheck.onclick%20%3D%20hander%3B%0A%09%3C%2Fscript%3E','')
+客户IP:10.10.120.123
+时间 :2013-05-22 01:20:35
+
+错误sql语句：
+INSERT INTO article (user_id,title_id,title,content,thumb) VALUES ('1','16','HTML 转 JavaScript 字符串','%3Cp%3EHTML%20%E8%BD%AC%20JavaScript%20%E5%AD%97%E7%AC%A6%E4%B8%B2%0A%3C%2Fp%3E%3Cp%3E%3Ctextarea%20style%3D%22width%3A100%25%3Bheight%3A100px%3B%22%20id%3D%22editor%22%3E%3C%2Ftextarea%3E%3Ctextarea%20style%3D%22width%3A100%25%3Bheight%3A300px%3B%22%20id%3D%22result%22%3E%3C%2Ftextarea%3E%3Clabel%3E%3Cinput%20checked%3D%22checked%22%20id%3D%22cssPathCheck%22%20type%3D%22checkbox%22%20%2F%3EcssPath%3C%2Flabel%3E%3C%2Fp%3E%3Cscript%20_ue_org_tagname%3D%22script%22%3E%0A%09%09%09var%20d%20%20%20%20%20%20%20%20%3D%20document%2C%0A%09%09%09editor%20%20%20%20%20%20%20%3D%20d.getElementById('editor')%2C%0A%09%09%09result%20%20%20%20%20%20%20%3D%20d.getElementById('result')%2C%0A%09%09%09cssPathCheck%20%3D%20d.getElementById('cssPathCheck')%2C%0A%09%09%09html%20%2C%0A%09%09%09hander%20%3D%20function%20()%20%7B%0A%09%09%09%09html%20%3D%20editor.value%3B%0A%09%09%09%09html%20%3D%20html.replace(%2F(%5E%5Cs*)%7C(%5Cs*%24)%2Fmg%2C%20'')%2F%2F%E5%88%A0%E9%99%A4%E6%AF%8F%E8%A1%8C%E9%A6%96%E4%BD%8D%E7%9A%84%E7%A9%BA%E7%99%BD%E5%AD%97%E7%AC%A6%0A%09%09%09%09%09%09%20%20%20.replace(%2F%5C'%2Fg%2C'%5C%5C%5C'')%2F%2F%E8%BD%AC%E4%B9%89%E6%89%80%E6%9C%89%E7%9A%84%E5%8D%95%E5%BC%95%E5%8F%B7%0A%09%09%09%09%09%20%20%20%20%20%20%20.replace(%2F%5Cn%7C%5Ct%2Fg%2C'%5C'%2B%5Cn%5C'')%3B%2F%2F%E5%9B%9E%E8%BD%A6%E5%AD%97%E7%AC%A6%EF%BC%8C%E6%9B%BF%E6%8D%A2%E6%88%90%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E5%8A%A0%0A%09%09%09%09if(cssPathCheck.checked)%7B%2F%2F%E6%98%AF%E5%90%A6%E5%8A%A0%E7%89%88%E6%9C%AC%E5%8F%B7%0A%09%09%09%09%09html%20%3D%20html.replace(%2F(http%3A%5C%2F%5C%2F)%5B%5Cd%5Cw%5C.%5D%2B(%5C%2Fzhenai3%5C%2F)%2Fg%2C'%5C'%2BcssPath%2B%5C'%242')%3B%0A%09%09%09%09%7D%0A%09%09%09%09result.value%20%3D%20'%5C''%2Bhtml%2B'%5C'%3B'%3B%0A%09%09%09%7D%3B%0A%09%09%09if(!%2B%5B1%2C%5D)%7B%0A%09%09%09%09editor.onpropertychange%20%3D%20hander%3B%09%09%09%0A%09%09%09%7Delse%7B%0A%09%09%09%09editor.addEventListener('input'%2Chander)%3B%0A%09%09%09%7D%0A%09%09%09cssPathCheck.onclick%20%3D%20hander%3B%0A%09%3C%2Fscript%3E','')
+客户IP:10.10.120.123
+时间 :2013-05-22 01:20:41
+
+错误sql语句：
+INSERT INTO article (user_id,title_id,title,content,thumb) VALUES ('1','16','HTML 转 JavaScript 字符串','<p>HTML 转 JavaScript 字符串
+</p><p><textarea style="width:100%;height:100px;" id="editor"></textarea><textarea style="width:100%;height:300px;" id="result"></textarea><label><input checked="checked" id="cssPathCheck" type="checkbox" />cssPath</label></p><script _ue_org_tagname="script">
+			var d        = document,
+			editor       = d.getElementById('editor'),
+			result       = d.getElementById('result'),
+			cssPathCheck = d.getElementById('cssPathCheck'),
+			html ,
+			hander = function () {
+				html = editor.value;
+				html = html.replace(/(^\s*)|(\s*$)/mg, '')//删除每行首位的空白字符
+						   .replace(/\'/g,'\\\'')//转义所有的单引号
+					       .replace(/\n|\t/g,'\'+\n\'');//回车字符，替换成字符串相加
+				if(cssPathCheck.checked){//是否加版本号
+					html = html.replace(/(http:\/\/)[\d\w\.]+(\/zhenai3\/)/g,'\'+cssPath+\'$2');
+				}
+				result.value = '\''+html+'\';';
+			};
+			if(!+[1,]){
+				editor.onpropertychange = hander;			
+			}else{
+				editor.addEventListener('input',hander);
+			}
+			cssPathCheck.onclick = hander;
+	</script>','')
+客户IP:10.10.120.123
+时间 :2013-05-22 01:23:59
+
+错误sql语句：
+INSERT INTO article (user_id,title_id,title,content,thumb) VALUES ('1','17','HTML 转 JavaScript 字符串','<p>HTML 转 JavaScript 字符串
+</p><p><textarea style="width:100%;height:100px;" id="editor"></textarea><textarea style="width:100%;height:300px;" id="result"></textarea><label><input checked="checked" id="cssPathCheck" type="checkbox" />cssPath</label></p><script _ue_org_tagname="script">
+			var d        = document,
+			editor       = d.getElementById('editor'),
+			result       = d.getElementById('result'),
+			cssPathCheck = d.getElementById('cssPathCheck'),
+			html ,
+			hander = function () {
+				html = editor.value;
+				html = html.replace(/(^\s*)|(\s*$)/mg, '')//删除每行首位的空白字符
+						   .replace(/\'/g,'\\\'')//转义所有的单引号
+					       .replace(/\n|\t/g,'\'+\n\'');//回车字符，替换成字符串相加
+				if(cssPathCheck.checked){//是否加版本号
+					html = html.replace(/(http:\/\/)[\d\w\.]+(\/zhenai3\/)/g,'\'+cssPath+\'$2');
+				}
+				result.value = '\''+html+'\';';
+			};
+			if(!+[1,]){
+				editor.onpropertychange = hander;			
+			}else{
+				editor.addEventListener('input',hander);
+			}
+			cssPathCheck.onclick = hander;
+	</script>','')
+客户IP:10.10.120.123
+时间 :2013-05-22 01:26:29
+
+错误sql语句：
+INSERT INTO article (user_id,title_id,title,content,thumb) VALUES ('1','17','HTML 转 JavaScript 字符串','<p>HTML 转 JavaScript 字符串
+</p><p><textarea style="width:100%;height:100px;" id="editor"></textarea><textarea style="width:100%;height:300px;" id="result"></textarea><label><input checked="checked" id="cssPathCheck" type="checkbox" />cssPath</label></p><script _ue_org_tagname="script">
+			var d        = document,
+			editor       = d.getElementById('editor'),
+			result       = d.getElementById('result'),
+			cssPathCheck = d.getElementById('cssPathCheck'),
+			html ,
+			hander = function () {
+				html = editor.value;
+				html = html.replace(/(^\s*)|(\s*$)/mg, '')//删除每行首位的空白字符
+						   .replace(/\'/g,'\\\'')//转义所有的单引号
+					       .replace(/\n|\t/g,'\'+\n\'');//回车字符，替换成字符串相加
+				if(cssPathCheck.checked){//是否加版本号
+					html = html.replace(/(http:\/\/)[\d\w\.]+(\/zhenai3\/)/g,'\'+cssPath+\'$2');
+				}
+				result.value = '\''+html+'\';';
+			};
+			if(!+[1,]){
+				editor.onpropertychange = hander;			
+			}else{
+				editor.addEventListener('input',hander);
+			}
+			cssPathCheck.onclick = hander;
+	</script>','')
+客户IP:10.10.120.123
+时间 :2013-05-22 01:26:40
+
+错误sql语句：
+SELECT name_name FROM `title` WHERE id = 17
+客户IP:10.10.120.123
+时间 :2013-05-22 05:44:35
+
+错误sql语句：
+select * from article where visible = 1 and user_id=1order by id desc
+客户IP:10.10.120.123
+时间 :2013-05-22 05:47:12
+
+错误sql语句：
+select * from article where id=
+客户IP:10.10.120.123
+时间 :2013-05-22 06:10:13
+
+错误sql语句：
+select * from article where id=
+客户IP:10.10.120.123
+时间 :2013-05-22 06:13:09
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 06:39:46
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 06:54:37
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 06:56:11
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 07:00:32
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 07:02:56
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 07:05:52
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 07:07:54
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 07:16:31
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 07:18:16
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 07:20:19
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 07:21:40
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 07:23:11
+
+错误sql语句：
+select * from article where visible = 1 and user_id= order by id desc
+客户IP:10.10.120.123
+时间 :2013-05-22 07:23:11
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 07:26:59
+
+错误sql语句：
+select id from `article` where `title_name`='珍爱通用按钮样式'
+客户IP:10.10.120.123
+时间 :2013-05-22 07:38:25
+
+错误sql语句：
+select id from `article` where `title_name`='珍爱通用按钮样式'
+客户IP:10.10.120.123
+时间 :2013-05-22 07:38:30
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 08:15:00
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 09:11:48
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 09:16:50
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 09:16:56
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 09:17:05
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 09:17:26
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-22 10:17:19
+

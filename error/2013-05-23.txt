@@ -1,0 +1,50 @@
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-23 04:51:34
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-23 06:55:08
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-23 06:55:12
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-23 06:55:17
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-23 06:55:18
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-23 06:55:28
+
+错误sql语句：
+select * from article where visible = 1 and user_id= order by id desc
+客户IP:10.10.120.123
+时间 :2013-05-23 06:55:28
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-23 15:10:39
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-23 16:00:50
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.10.120.123
+时间 :2013-05-23 18:01:15
+
