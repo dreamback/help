@@ -31,19 +31,24 @@
                     </ul>
                     <ul class="nav pull-right">
                       <li class="divider-vertical"></li>
-                      <li class="dropdown">
-                        <a data-toggle="dropdown" class="dropdown-toggle" href="#"><?php echo $dbuser['username'] ?> <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                          <li><a href="addArticle.php">发布文章</a></li>
-                          <li class="divider"></li>
-                          <li><a href="#">个人中心</a></li>
-                          <li><a href="myArticleList.php">我的文章</a></li>
-                          <li><a href="#">账号管理</a></li>
-                          <li><a href="titleEdit.php">分类管理</a></li>
-                          <li class="divider"></li>
-                          <li><a href="#">退出登录</a></li>
-                        </ul>
-                      </li>
+                      <?php if($dbuser['username'] != ''){
+                        echo '<li class="dropdown">'.
+                        '<a data-toggle="dropdown" class="dropdown-toggle" href="#">'.$dbuser['username'].'<b class="caret"></b></a>'.
+                        '<ul class="dropdown-menu">'.
+                        '<li><a href="addArticle.php">发布文章</a></li>'.
+                        '<li class="divider"></li>'.
+                        '<li><a href="#">个人中心</a></li>'.
+                        '<li><a href="myArticleList.php">我的文章</a></li>'.
+                        '<li><a href="#">账号管理</a></li>'.
+                        '<li><a href="titleEdit.php">分类管理</a></li>'.
+                        '<li class="divider"></li>'.
+                        '<li><a href="#">退出登录</a></li>'.
+                        '</ul>'.
+                        '</li>';
+                       }else{
+                        echo '<li><a href="login.php">登录</a></li>';
+                       }
+                      ?>
                     </ul>
                     <form action="" class="navbar-search pull-right">
                       <input type="text" placeholder="搜索" class="search-query span2">

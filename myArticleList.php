@@ -1,5 +1,8 @@
 <?php 
 include("inc/global.php"); 
+if($_SESSION['userid']==''){
+	header('Location: login.php');
+}
 $rs = $db->query("select * from article where visible = 1 and user_id=".$dbuser['id'].' order by id desc');
 ?>
 <?php 

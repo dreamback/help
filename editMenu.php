@@ -1,6 +1,8 @@
 <?php
 include ("inc/global.php");
-
+if($_SESSION['userid']==''){
+	header('Location: login.php');
+}
 $title = getTitle($db);
 $titleLength = count($title);
 
