@@ -42,7 +42,7 @@
                         '<li><a href="#">账号管理</a></li>'.
                         '<li><a href="titleEdit.php">分类管理</a></li>'.
                         '<li class="divider"></li>'.
-                        '<li><a href="#">退出登录</a></li>'.
+                        '<li><a href="loginout.php">退出登录</a></li>'.
                         '</ul>'.
                         '</li>';
                        }else{
