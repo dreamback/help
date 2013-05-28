@@ -46,7 +46,8 @@
                         '</ul>'.
                         '</li>';
                        }else{
-                        echo '<li><a href="login.php">登录</a></li>';
+                        echo '<li><a href="register.php">注册</a></li>'.
+                             '<li><a href="login.php">登录</a></li>';
                        }
                       ?>
                     </ul>
