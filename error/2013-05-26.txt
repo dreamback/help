@@ -1,0 +1,55 @@
+错误sql语句：
+SELECT * FROM `user` WHERE username ='何世孟'
+客户IP:10.6.6.140
+时间 :2013-05-26 14:49:23
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.6.6.140
+时间 :2013-05-26 14:57:29
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.6.6.140
+时间 :2013-05-26 14:59:18
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.6.6.140
+时间 :2013-05-26 14:59:26
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.6.6.140
+时间 :2013-05-26 15:00:12
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.6.6.140
+时间 :2013-05-26 15:00:18
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.6.6.140
+时间 :2013-05-26 15:00:28
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.6.6.140
+时间 :2013-05-26 15:00:29
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.6.6.140
+时间 :2013-05-26 15:00:31
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.6.6.140
+时间 :2013-05-26 15:00:52
+
+错误sql语句：
+SELECT * FROM `user` WHERE id = 
+客户IP:10.6.6.140
+时间 :2013-05-26 15:00:53
+

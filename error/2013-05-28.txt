@@ -1,0 +1,5 @@
+错误sql语句：
+INSERT INTO user (username='何世孟f',password='1111') VALUES ()
+客户IP:10.6.7.195
+时间 :2013-05-28 14:40:07
+
